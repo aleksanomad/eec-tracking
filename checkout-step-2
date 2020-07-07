@@ -1,0 +1,12 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'eec.checkout',
+  ecommerce: {
+    checkout: {
+      actionField: {
+        step: 2,
+        option: 'Pouzecem u gotovini pri prijemu robe'
+      }
+    }
+  }
+});
