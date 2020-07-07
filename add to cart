@@ -1,0 +1,18 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'eec.add',
+  ecommerce: {
+    currencyCode: 'RSD',
+    add: {                                // 'add' actionFieldObject measures.
+      products: [{                        //  adding a product to a shopping cart.
+        name: 'NATIVE INSTRUMENTS Maschine Jam - Player Plus doo',
+        id: '11289',
+        price: '32280',
+        brand: 'Native Instruments',
+        category: 'Live Kontroleri',
+        variant: 'Standard',
+        quantity: 1
+       }]
+    }
+  }
+});
