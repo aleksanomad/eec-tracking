@@ -12,7 +12,7 @@ window.dataLayer.push({
         category: 'Live Kontroleri',
         variant: 'Standard',
         brand: 'Native Instruments',
-        price: '32280'
+        price: '32280.00'
       }]
     }
   }
