@@ -1,0 +1,32 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'eec.purchase',
+  ecommerce: {
+    currencyCode: 'RSD',
+    purchase: {
+      actionField: {
+        id: 'WNC01630',
+        affiliation: 'Online Store',
+        revenue: '3408.00',
+        shipping: '0.00'
+      },
+     products: [{
+        id: '7282',
+        name: 'DADDARIO EXL115 Nickel Wound, Medium Blues Jazz Rock,11-49 - Player Plus doo',
+        category: 'Žice za Električnu Gitaru',
+        variant: 'Standard',
+        brand: 'D'ADDARIO',
+        quantity: 2,
+        price: '840.00' 
+      },{
+        id: '11335',
+        name: 'ELIXIR Elec Med 011 Set - Player Plus doo',
+        category:'Žice za Električnu Gitaru',
+        variant:'Standard',
+        brand:'Elixir',
+        quantity: 1,
+        price:'1728.00'
+      }]
+    }
+  }
+});
