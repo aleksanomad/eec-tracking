@@ -13,7 +13,7 @@ window.dataLayer.push({
         variant: 'Standard',
         brand: 'D'ADDARIO',
         quantity: 2,
-        price: '840' 
+        price: '840.00' 
       },{
         id: '11335',
         name: 'ELIXIR Elec Med 011 Set - Player Plus doo',
@@ -21,7 +21,7 @@ window.dataLayer.push({
         variant:'Standard',
         brand:'Elixir',
         quantity: 1,
-        price:'1728'
+        price:'1728.00'
       }]
     }
   }
