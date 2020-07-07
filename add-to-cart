@@ -7,7 +7,7 @@ window.dataLayer.push({
       products: [{                        //  adding a product to a shopping cart.
         name: 'NATIVE INSTRUMENTS Maschine Jam - Player Plus doo',
         id: '11289',
-        price: '32280',
+        price: '32280.00',
         brand: 'Native Instruments',
         category: 'Live Kontroleri',
         variant: 'Standard',
